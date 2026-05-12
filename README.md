@@ -16,7 +16,7 @@ Quantum Gravity · Cosmology · Black Holes
 
 ## About Me
 
-I am a PhD candidate in the Department of Physics & Astronomy at Louisiana State University, working under the supervision of Prof. Parampreet Singh. My research lies at the intersection of quantum gravity and cosmology — I study how quantum geometric effects resolve classical singularities in black holes and the early universe, and how these effects might leave observable signatures in gravitational wave data and the cosmic microwave background. My work has been cited over 460 times across the fields of particle cosmology, quantum cosmology, and quantum gravity.
+I am a Ph.D. candidate in the Department of Physics & Astronomy at Louisiana State University. My research lies at the intersection of quantum physics and gravity, with a focus on the implications of quantum gravitational singularity resolution for the early universe and black hole physics within the Loop Quantum Gravity framework. 
 
 ---
 
