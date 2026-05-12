@@ -4,12 +4,11 @@
 
 **PhD Candidate in Physics · Louisiana State University**
 
-*Quantum Gravity · Loop Quantum Cosmology · Black Hole Physics · Particle Cosmology*
+Quantum Gravity · Cosmology · Black Holes
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meysam-motaharfar)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mmotah4@lsu.edu)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=-TYYPs4AAAAJ&hl=en)
-[![INSPIRE-HEP](https://img.shields.io/badge/INSPIRE--HEP-0a4c79?logo=data:image/svg+xml;base64,&logoColor=white)](https://inspirehep.net/authors/1684458)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meysam-motaharfar)
 
 </div>
 
@@ -18,42 +17,6 @@
 ## About Me
 
 I am a PhD candidate in the Department of Physics & Astronomy at Louisiana State University, working under the supervision of Prof. Parampreet Singh. My research lies at the intersection of quantum gravity and cosmology — I study how quantum geometric effects resolve classical singularities in black holes and the early universe, and how these effects might leave observable signatures in gravitational wave data and the cosmic microwave background. My work has been cited over 460 times across the fields of particle cosmology, quantum cosmology, and quantum gravity.
-
----
-
-## Research Interests
-
-| Area | Focus |
-|:-----|:------|
-| **Loop Quantum Cosmology** | Singularity resolution, Bianchi models, regularization ambiguities, CMB predictions |
-| **Quantum Black Holes** | Tidal Love numbers of loop quantum black holes, gravitational wave signatures |
-| **Warm Inflation** | Swampland conjectures, dissipative dynamics in the early universe |
-| **Krylov Complexity** | Quantum complexity measures in Wheeler-DeWitt and LQC models |
-| **Information Paradox** | Information preservation during black hole evaporation via quantum gravity effects |
-
----
-
-## Selected Publications
-
-- **Love Numbers of Covariant Loop Quantum Black Holes**
-  M. Motaharfar & P. Singh · *Physical Review D* 112, 2025
-  First study of tidal deformability of loop quantum black holes — implications for gravitational wave observations. Related work received **Honorable Mention, Gravity Research Foundation Essay Competition 2025**.
-
-- **Krylov Complexity in Canonical Quantum Cosmology**
-  M. Motaharfar, M. R. Siebersma & P. Singh · 2025
-  Analytical construction of Krylov basis for WDW and LQC models using the Lanczos algorithm.
-
-- **Constraining Regularization Ambiguities in LQC via CMB**
-  B.-F. Li, M. Motaharfar & P. Singh · 2024
-  Systematic comparison of primordial power spectra across loop quantum cosmological models.
-
-- **Classicality and Uniqueness in the Loop Quantization of Bianchi I Spacetimes**
-  M. Motaharfar, P. Singh & E. Thareja · *Physical Review D* 109, 2024
-
-- **Warm Inflation as a Way Out of the Swampland**
-  M. Motaharfar, V. Kamali & R. O. Ramos · *Physical Review D* 99, 2019
-
-📄 Full list on [INSPIRE-HEP](https://inspirehep.net/authors/1684458) · [Google Scholar](https://scholar.google.com/citations?user=-TYYPs4AAAAJ&hl=en)
 
 ---
 
@@ -89,17 +52,3 @@ I am a PhD candidate in the Department of Physics & Astronomy at Louisiana State
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 
 ---
-
-## Education
-
-🎓 **Ph.D. in Physics** — Louisiana State University *(in progress)*
-🎓 **M.Sc. in Physics** — Shahid Beheshti University
-🎓 **B.Sc. in Physics** — Semnan University
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meysam-&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-</div>
