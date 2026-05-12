@@ -20,8 +20,6 @@ I am a PhD candidate in the Department of Physics & Astronomy at Louisiana State
 
 ---
 
----
-
 ## Tech Stack
 
 #### Programming & Scripting
